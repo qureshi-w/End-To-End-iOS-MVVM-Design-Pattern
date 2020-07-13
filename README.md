@@ -2,12 +2,12 @@
 
 > This project is meant to demonstrate end to end clean and simple MVVM model.
 > Calling the live web service and parsing into Model.
-> Transforming the model into viewModel and display information on UI.
+> Then transforming the model into viewModel and display information on UI.
 
 
 # How It works
 1. Fetch the live data of all open restaurant in San Fransisco area
-2. Display information all the open restaurant on the Table View
+2. Display information of all the open restaurant on the Table View
 3. Pin all the open restaurant over the map
 
 
