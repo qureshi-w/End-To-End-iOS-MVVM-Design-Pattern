@@ -24,6 +24,7 @@
 > https://dev.socrata.com/foundry/data.sfgov.org/bbb8-hzi6
 
 # Screen Shot
+![pins](https://user-images.githubusercontent.com/59496278/87359521-f4401380-c535-11ea-9bd6-a9620065c412.png)
 
 ![Open Restruant](https://user-images.githubusercontent.com/59496278/87359424-bc38d080-c535-11ea-964c-9c597cd13523.png)
 
