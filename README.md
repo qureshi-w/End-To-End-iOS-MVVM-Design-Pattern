@@ -24,7 +24,7 @@
 > https://dev.socrata.com/foundry/data.sfgov.org/bbb8-hzi6
 
 # Screen Shot
-![pins](https://user-images.githubusercontent.com/59496278/87359521-f4401380-c535-11ea-9bd6-a9620065c412.png)
 
-![Open Restruant](https://user-images.githubusercontent.com/59496278/87359424-bc38d080-c535-11ea-964c-9c597cd13523.png)
+![Open Restruant](https://user-images.githubusercontent.com/59496278/87359675-48e38e80-c536-11ea-9b26-2d288e5a350c.png)
+![pins](https://user-images.githubusercontent.com/59496278/87359684-4b45e880-c536-11ea-8e52-0ddc6f8f057e.png
 
