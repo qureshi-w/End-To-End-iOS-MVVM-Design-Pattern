@@ -10,6 +10,7 @@
 2. Display information of all the open restaurant on the Table View
 3. Pin all the open restaurant over the map
 
+https://user-images.githubusercontent.com/59496278/87353852-98708d00-c52b-11ea-98c7-140a7ecbeab9.png
 
 # Things to Learn
 1. Web Service call and parsing using codable model classes
