@@ -26,5 +26,6 @@
 # Screen Shot
 
 ![Open Restruant](https://user-images.githubusercontent.com/59496278/87359675-48e38e80-c536-11ea-9b26-2d288e5a350c.png)
-![pins](https://user-images.githubusercontent.com/59496278/87359684-4b45e880-c536-11ea-8e52-0ddc6f8f057e.png
+
+![pins](https://user-images.githubusercontent.com/59496278/87359736-6c0e3e00-c536-11ea-8014-f0f5ed115997.png)
 
