@@ -1,4 +1,4 @@
-# iOS-MVVM-Model
+# iOS MVVM Design Pattern
 
 > This project is meant to demonstrate end to end clean and simple MVVM model.
 > Calling the live web service and parsing into Model.
