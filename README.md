@@ -14,10 +14,13 @@
 # Things to Learn
 1. Web Service call and parsing using codable model classes
 2. Clean MVVM Model keeping web service logic in ViewModel
-3. Self sizing table with the help of Content Hugging 
+3. Self-sizing table with the help of Content Hugging 
 4. A glimpse of MapKit by showing pins over the Mapview.
 
-# Requirenment 
+# Requirement 
 1. Xcode 11 and Swift 4 & 5
+
+# Refference Link
+> https://dev.socrata.com/foundry/data.sfgov.org/bbb8-hzi6
 
 
