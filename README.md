@@ -4,6 +4,11 @@
 > Calling the live web service and parsing into Model.
 > Then transforming the model into viewModel and display information on UI.
 
+# Screen Shot
+
+![Open Restruant](https://user-images.githubusercontent.com/59496278/87359675-48e38e80-c536-11ea-9b26-2d288e5a350c.png)
+
+![pins](https://user-images.githubusercontent.com/59496278/87359736-6c0e3e00-c536-11ea-8014-f0f5ed115997.png)
 
 # How It works
 1. Fetch the live data of all open restaurant in San Fransisco area
@@ -23,9 +28,5 @@
 # Refference Link
 > https://dev.socrata.com/foundry/data.sfgov.org/bbb8-hzi6
 
-# Screen Shot
 
-![Open Restruant](https://user-images.githubusercontent.com/59496278/87359675-48e38e80-c536-11ea-9b26-2d288e5a350c.png)
-
-![pins](https://user-images.githubusercontent.com/59496278/87359736-6c0e3e00-c536-11ea-8014-f0f5ed115997.png)
 
